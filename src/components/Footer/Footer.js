@@ -40,7 +40,7 @@ const Footer = () => {
                   &copy;All Rights Reserved - {" "}
                   &nbsp;
                   <a
-                    href="https://github.com/abhipsa0023"
+                    href="https://github.com/me-nilakshi"
                     target="_blank"
                     rel="noreferrer"
                     className={classes.eniola_codes}
@@ -79,7 +79,7 @@ const Footer = () => {
                 </p>
               </a>
               <a
-                href="https://github.com/abhipsa0023"
+                href="https://github.com/me-nilakshi"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -92,7 +92,7 @@ const Footer = () => {
                 </p>
               </a>
               <a
-                href="https://www.linkedin.com/in/abhipsa-samal-619b77229/"
+                href="https://www.linkedin.com/in/nilakshi-neel-066772236"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -110,12 +110,12 @@ const Footer = () => {
           <p className={classes.mobile_copy}>
             &copy;2022 Made with <i className="bi bi-heart-fill"></i> by&nbsp;
             <a
-              href="https://github.com/abhipsa0023"
+              href="https://github.com/me-nilakshi"
               target="_blank"
               rel="noreferrer"
               className={classes.eniola_codes}
             >
-              Abhipsa Samal Project
+              Nilakshi Neel Project
             </a>
           </p>
         </Row>
