@@ -45,7 +45,7 @@ const Footer = () => {
                     rel="noreferrer"
                     className={classes.eniola_codes}
                   >
-                    Abhipsa Samal Project
+                    Nilakshi Neel Project
                   </a>
                 </p>
               </div>
@@ -66,7 +66,7 @@ const Footer = () => {
             <div className={classes.social}>
               <h3>Social</h3>
               <a
-                href="https://instagram.com/abhipsasamal_23?igshid=YmMyMTA2M2Y="
+                href="https://www.linkedin.com/in/nilakshi-neel-066772236"
                 target="_blank"
                 rel="noreferrer"
               >
