@@ -40,12 +40,12 @@ const Footer = () => {
                   &copy;All Rights Reserved - {" "}
                   &nbsp;
                   <a
-                    href="https://github.com/me-nilakshi"
+                    href="https://github.com/aaryakachole"
                     target="_blank"
                     rel="noreferrer"
                     className={classes.eniola_codes}
                   >
-                    Nilakshi Neel Project
+                    Aarya Kachole Project
                   </a>
                 </p>
               </div>
@@ -66,7 +66,7 @@ const Footer = () => {
             <div className={classes.social}>
               <h3>Social</h3>
               <a
-                href="https://www.linkedin.com/in/nilakshi-neel-066772236"
+                href="https://www.linkedin.com/in/aarya-kachole-3a221423b/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -79,7 +79,7 @@ const Footer = () => {
                 </p>
               </a>
               <a
-                href="https://github.com/me-nilakshi"
+                href="https://github.com/aaryakachole"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -92,7 +92,7 @@ const Footer = () => {
                 </p>
               </a>
               <a
-                href="https://www.linkedin.com/in/nilakshi-neel-066772236"
+                href="https://www.linkedin.com/in/aarya-kachole-3a221423b/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -110,12 +110,12 @@ const Footer = () => {
           <p className={classes.mobile_copy}>
             &copy;2022 Made with <i className="bi bi-heart-fill"></i> by&nbsp;
             <a
-              href="https://github.com/me-nilakshi"
+              href="https://github.com/aaryakachole"
               target="_blank"
               rel="noreferrer"
               className={classes.eniola_codes}
             >
-              Nilakshi Neel Project
+              Aarya Kachole Project
             </a>
           </p>
         </Row>
